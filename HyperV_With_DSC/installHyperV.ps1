@@ -12,3 +12,5 @@ Configuration HyperVInstall {
         }
     }
 } 
+
+HyperVInstall 
